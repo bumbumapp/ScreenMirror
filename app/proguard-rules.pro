@@ -20,7 +20,7 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keepnames class info.dvkr.screenstream.** { *; }
+-keepnames class info.bumbumapps.screenstream.** { *; }
 -keep class **.R$* {
     <fields>;
 }

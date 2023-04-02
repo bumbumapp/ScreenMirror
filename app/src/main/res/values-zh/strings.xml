@@ -48,7 +48,7 @@
     <string name="permission_activity_error_title_activity_not_found">权限错误</string>
     <string name="permission_activity_error_activity_not_found">安卓BUG。请不要在获取屏幕内容的对话框中勾选“不再提示”。如果已勾选，请卸载重装。</string>
     <string name="permission_activity_cast_permission_required_title">权限已获得</string>
-    <string name="permission_activity_cast_permission_required">ScreenStream需要捕获屏幕内容的权限</string>
+    <string name="permission_activity_cast_permission_required">Screen mirror需要捕获屏幕内容的权限</string>
     <string name="permission_activity_error_title">错误</string>
     <string name="permission_activity_error_unknown">未知错误</string>
 

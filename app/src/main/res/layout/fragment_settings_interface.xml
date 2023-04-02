@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
+    android:background="@color/colorBackgroundSecondary2"
     tools:context=".ui.activity.AppActivity">
 
     <LinearLayout
@@ -646,7 +647,7 @@
                 app:layout_constraintStart_toEndOf="@id/iv_fragment_settings_html_back_color"
                 app:layout_constraintTop_toBottomOf="@id/tv_fragment_settings_html_back_color" />
 
-            <info.dvkr.screenstream.ui.view.ColorCircleView
+            <info.bumbumapps.screenstream.ui.view.ColorCircleView
                 android:id="@+id/v_fragment_settings_html_back_color"
                 android:layout_width="32dp"
                 android:layout_height="32dp"

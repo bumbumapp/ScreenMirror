@@ -1,4 +1,4 @@
-package info.dvkr.screenstream
+package info.bumbumapps.screenstream
 
 import com.elvishew.xlog.LogConfiguration
 import com.elvishew.xlog.LogItem

@@ -2,10 +2,11 @@
 <resources>
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#0E0E0E</color>
-    <color name="colorAccent">#4597EA</color>
+    <color name="colorAccent">#D3AB34</color>
     <color name="textColorPrimary">#DCDCDC</color>
     <color name="textColorSecondary">#A5A5A5</color>
     <color name="textColorTertiary">#656565</color>
+
 
     <color name="colorStatusBar">#0F0F0F</color>
     <color name="colorNavigationBar">#0F0F0F</color>
@@ -13,12 +14,13 @@
     <color name="colorWindowBackgroundEnd">#000000</color>
 
     <color name="colorBackgroundSecondary">#1A1A1A</color>
-
+    <color name="colorBackgroundSecondary2">#000000</color>
     <color name="colorAddressIcon">@color/textColorPrimary</color>
     <color name="colorIcon">@color/textColorPrimary</color>
     <color name="colorIconDisabled">@color/textColorTertiary</color>
     <color name="colorSettingsHeader">@color/textColorPrimary</color>
     <color name="colorSettingsSummary">@color/textColorSecondary</color>
+
 
     <color name="colorNavigationIconsChecked">@color/colorAccent</color>
     <color name="colorNavigationIconsUnchecked">@color/textColorSecondary</color>

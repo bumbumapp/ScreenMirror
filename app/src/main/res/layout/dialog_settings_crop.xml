@@ -52,6 +52,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:imeOptions="flagNoExtractUi"
+            android:textColor="@color/textColorPrimary"
             android:inputType="number"
             android:maxLength="6"
             android:singleLine="true" />
@@ -96,6 +97,7 @@
             android:layout_height="wrap_content"
             android:imeOptions="flagNoExtractUi"
             android:inputType="number"
+            android:textColor="@color/textColorPrimary"
             android:maxLength="6"
             android:singleLine="true" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -139,6 +141,7 @@
             android:layout_height="wrap_content"
             android:imeOptions="flagNoExtractUi"
             android:inputType="number"
+            android:textColor="@color/textColorPrimary"
             android:maxLength="6"
             android:singleLine="true" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -182,6 +185,7 @@
             android:layout_height="wrap_content"
             android:imeOptions="flagNoExtractUi"
             android:inputType="number"
+            android:textColor="@color/textColorPrimary"
             android:maxLength="6"
             android:singleLine="true" />
     </com.google.android.material.textfield.TextInputLayout>

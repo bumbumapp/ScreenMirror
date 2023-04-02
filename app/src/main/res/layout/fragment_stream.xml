@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
+    android:background="@color/colorBackgroundSecondary2"
     tools:context=".ui.activity.AppActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -71,7 +72,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/fl_fragment_stream_ad_view_container">
 
-            <info.dvkr.screenstream.ui.view.ExpansionHeader
+            <info.bumbumapps.screenstream.ui.view.ExpansionHeader
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:expansion_headerIndicator="@id/iv_fragment_stream_traffic"
@@ -95,9 +96,9 @@
                     android:paddingBottom="8dp"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     tools:text="Traffic: 5.69Mbit/s" />
-            </info.dvkr.screenstream.ui.view.ExpansionHeader>
+            </info.bumbumapps.screenstream.ui.view.ExpansionHeader>
 
-            <info.dvkr.screenstream.ui.view.ExpansionLayout
+            <info.bumbumapps.screenstream.ui.view.ExpansionLayout
                 android:id="@+id/el_fragment_stream_traffic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
@@ -112,7 +113,7 @@
                         android:layout_height="1dp"
                         android:background="@color/colorClientDivider" />
 
-                    <info.dvkr.screenstream.ui.view.TrafficGraph
+                    <info.bumbumapps.screenstream.ui.view.TrafficGraph
                         android:id="@+id/traffic_graph_fragment_stream"
                         android:layout_width="match_parent"
                         android:layout_height="168dp"
@@ -120,7 +121,7 @@
                         android:layout_marginEnd="8dp"
                         android:paddingBottom="8dp" />
                 </LinearLayout>
-            </info.dvkr.screenstream.ui.view.ExpansionLayout>
+            </info.bumbumapps.screenstream.ui.view.ExpansionLayout>
         </LinearLayout>
 
         <LinearLayout
@@ -135,7 +136,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/ll_fragment_stream_traffic">
 
-            <info.dvkr.screenstream.ui.view.ExpansionHeader
+            <info.bumbumapps.screenstream.ui.view.ExpansionHeader
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:expansion_headerIndicator="@id/iv_fragment_stream_clients"
@@ -159,9 +160,9 @@
                     android:paddingBottom="8dp"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     tools:text="Connected clients: 2" />
-            </info.dvkr.screenstream.ui.view.ExpansionHeader>
+            </info.bumbumapps.screenstream.ui.view.ExpansionHeader>
 
-            <info.dvkr.screenstream.ui.view.ExpansionLayout
+            <info.bumbumapps.screenstream.ui.view.ExpansionLayout
                 android:id="@+id/el_fragment_stream_clients"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
@@ -182,7 +183,7 @@
                         android:layout_height="wrap_content"
                         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
                 </LinearLayout>
-            </info.dvkr.screenstream.ui.view.ExpansionLayout>
+            </info.bumbumapps.screenstream.ui.view.ExpansionLayout>
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.core.widget.NestedScrollView>

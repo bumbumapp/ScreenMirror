@@ -60,13 +60,14 @@
         app:layout_constraintTop_toBottomOf="@id/v_activity_app_logs"
         app:navGraph="@navigation/nav_graph" />
 
-    <info.dvkr.screenstream.ui.view.CurvedBottomNavigationView
+    <info.bumbumapps.screenstream.ui.view.CurvedBottomNavigationView
         android:id="@+id/bottom_navigation_activity_app"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:itemIconTint="@drawable/bottom_navigation_colors"
         app:itemTextColor="@drawable/bottom_navigation_colors"
         app:labelVisibilityMode="labeled"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/bottom_navigation_menu" />
 

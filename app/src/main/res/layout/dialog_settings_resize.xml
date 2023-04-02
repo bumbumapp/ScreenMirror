@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginEnd="24dp"
+        app:counterTextColor="@color/textColorPrimary"
         android:gravity="start|center_vertical"
         app:hintEnabled="false">
 
@@ -28,6 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:imeOptions="flagNoExtractUi"
+            android:textColor="@color/textColorPrimary"
             android:inputType="number"
             android:maxLines="1" />
     </com.google.android.material.textfield.TextInputLayout>

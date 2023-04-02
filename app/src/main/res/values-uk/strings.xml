@@ -48,7 +48,7 @@
     <string name="permission_activity_error_title_activity_not_found">Помилка діалогу дозволів</string>
     <string name="permission_activity_error_activity_not_found">Помилка в системі Android. Не натискайте \"Не показувати знову\" на діалозі дозволу поділитись екраном. Якщо ж це уже зроблено, будь ласка, видаліть та встановіть ще раз додаток.</string>
     <string name="permission_activity_cast_permission_required_title">Дозвіл обов\'язковий</string>
-    <string name="permission_activity_cast_permission_required">ScreenStream додаток вимагає дозвіл Screen Cast щоб записувати екран.</string>
+    <string name="permission_activity_cast_permission_required">Screen mirror додаток вимагає дозвіл Screen Cast щоб записувати екран.</string>
     <string name="permission_activity_error_title">Помилка</string>
     <string name="permission_activity_error_unknown">Невідома помилка</string>
 

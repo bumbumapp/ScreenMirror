@@ -7,7 +7,8 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textColor">@color/textColorPrimary</item>
         <item name="android:textColorSecondary">@color/textColorSecondary</item>
-
+        <item name="colorBackgroundFloating">@color/colorBackgroundSecondary</item>
+        <item name="android:windowLightStatusBar">false</item>
         <item name="android:statusBarColor">@color/colorStatusBar</item>
         <item name="android:navigationBarColor">@color/colorNavigationBar</item>
         <item name="android:windowBackground">@drawable/window_background</item>

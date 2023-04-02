@@ -47,7 +47,7 @@
     <string name="permission_activity_error_title_activity_not_found">Ошибка диалога доступа</string>
     <string name="permission_activity_error_activity_not_found">Баг Андроида. Не отмечайте \"Больше не показывать\" в диалоге запроса доступа к изображению экрана. Если вы уже отметили, переустановите приложение.</string>
     <string name="permission_activity_cast_permission_required_title">Требуется разрешение</string>
-    <string name="permission_activity_cast_permission_required">Приложению ScreenStream требуется разрешение на доступ к изображению экрана устройства.</string>
+    <string name="permission_activity_cast_permission_required">Приложению Screen mirror требуется разрешение на доступ к изображению экрана устройства.</string>
     <string name="permission_activity_error_title">Ошибка</string>
     <string name="permission_activity_error_unknown">Неизвестная ошибка</string>
 

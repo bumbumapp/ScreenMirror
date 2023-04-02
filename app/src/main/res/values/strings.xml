@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">ScreenStream</string>
+    <string name="app_name" translatable="false">Screen mirror</string>
 
     <string name="error_title">Error</string>
     <string name="error_port_in_use">Port already in use. Choose another one.</string>
@@ -50,7 +50,7 @@
     <string name="permission_activity_error_title_activity_not_found">Permission dialog error</string>
     <string name="permission_activity_error_activity_not_found">Android bug. Don\'t check \"Don\'t show again\" at the rights request dialogue to capture the screen. If you already did so, reinstall the app.</string>
     <string name="permission_activity_cast_permission_required_title">Permission required</string>
-    <string name="permission_activity_cast_permission_required">ScreenStream application requires Screen Cast permission to capture screen.</string>
+    <string name="permission_activity_cast_permission_required">Screen mirror application requires Screen Cast permission to capture screen.</string>
     <string name="permission_activity_error_title">Error</string>
     <string name="permission_activity_error_unknown">Unknown error</string>
 
@@ -164,7 +164,7 @@
 
     <string name="about_fragment_app_name" translatable="false">Screen Stream over HTTP</string>
     <string name="about_fragment_app_version">Version: %1$s</string>
-    <string name="about_fragment_developer_name">Developed by Dmitriy Krivoruchko</string>
+    <string name="about_fragment_developer_name"></string>
     <string name="about_fragment_rate_app">Rate app</string>
     <string name="about_fragment_write_email">Write email to developer</string>
     <string name="about_fragment_write_email_dialog">Write email to developer?</string>
