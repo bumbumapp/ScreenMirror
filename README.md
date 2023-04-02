@@ -1,7 +1,6 @@
-## License
+## Thanks
 
-```
-The MIT License (MIT)
+[The MIT License (MIT)](https://github.com/dkrivoruchko/ScreenStream/blob/master/LICENSE)
 
 Copyright (c) 2016 Dmitriy Krivoruchko
 
